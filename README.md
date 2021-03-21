@@ -11,3 +11,4 @@ In this project, we are tasked to propose, train and design a Deep Learning mode
 # File Descriptions
 1. Run codes in Latest_File.ipynb for our proposed models.
 2. Dataset and Dataloader.ipynb only contains desciptions of the dataset.
+3. Report.pdf contains clear documentations on the choices that we have made for the proposed model.
