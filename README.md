@@ -8,6 +8,6 @@ This project is a class project for SUTD's Deep Learning course.
 
 In this project, we are tasked to propose, train and design a Deep Learning model to classify X-ray images of patients and help doctors with the diagnosis of COVID/non-COVID pneumonia. 
 
-# File Description
-1. Run codes in Proposed_Model.ipynb for our proposed models.
-2. Dataset and Dataloader.ipynb contains desciptions of the dataset.
+# File Descriptions
+1. Run codes in Latest_File.ipynb for our proposed models.
+2. Dataset and Dataloader.ipynb only contains desciptions of the dataset.
